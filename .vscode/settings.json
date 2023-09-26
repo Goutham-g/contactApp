@@ -1,0 +1,5 @@
+{
+    "prettier.embeddedLanguageFormatting": "auto",
+    "typescript.format.insertSpaceAfterCommaDelimiter": false,
+    "javascript.format.insertSpaceAfterCommaDelimiter": false
+}
